@@ -5,3 +5,4 @@ ro.ril.telephony.mqanelements=6
 
 #Device
 ro.product.device=klte
+ro.product.model=Samsung Galaxy S5
