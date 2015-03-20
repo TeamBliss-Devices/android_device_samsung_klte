@@ -22,5 +22,11 @@
     "repository": "android_kernel_samsung_klte",
     "target_path": "kernel/samsung/klte",
     "revision:" "lp5.0"
+  },
+  {
+    "remote": "TeamBliss-Devices",
+    "repository": "proprietary_vendor_samsung",
+    "target_path": "vendor/samsung",
+    "revision:" "lp5.0"
   }
 ]
