@@ -6,3 +6,5 @@ ro.ril.telephony.mqanelements=6
 #Device
 ro.product.device=klte
 ro.product.model=Samsung Galaxy S5
+ro.cm.version=12
+ro.cm.releasetype=Bliss
